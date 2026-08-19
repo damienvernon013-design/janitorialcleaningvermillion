@@ -1,0 +1,6 @@
+{
+  "name": "janitorialcleaningvermillion",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static microsite for Vermillion Janitorial Cleaning with a Vercel serverless function to submit leads to the CRM-QM API."
+}
